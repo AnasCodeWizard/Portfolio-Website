@@ -8,15 +8,15 @@
     color: white;
 }
 .text-yellow{
-    color: rgb(237, 237, 237);
+    color: yellow;
 }
 .container{
-    background-color: #0c51ab;
+    background-color: #525252;
     height: 530px;
     width: 100%;
 }
 .container-2{
-    background-color: #7799c7;
+    background-color: #383838;
     height: 590px;
     width: 100%;
 }
@@ -62,7 +62,7 @@ margin-left: 50px;
 }
 .line{
     width: 30%;
-    color: yellow;
+    color: rgb(255, 255, 0);
 }
 .section-links-icons i{
     margin-right: 30px;
